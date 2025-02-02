@@ -17,7 +17,7 @@ Para seguir este guia, você precisará ter os seguintes softwares instalados em
 1. **Clone o repositório Git:**
 
 ```
-git clone (URL_DO_REPOSITORIO)
+git clone https://github.com/rafaelbarross/english-quizz.git
 ```
 
 2. **Instale as dependências:**
