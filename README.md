@@ -23,7 +23,7 @@ git clone https://github.com/rafaelbarross/english-learn-AI.git
 2. **Instale as dependências:**
 
 ```
-npm install
+npm install --force
 ```
 
 ## Criando o Arquivo .env
