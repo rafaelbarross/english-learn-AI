@@ -17,7 +17,7 @@ Para seguir este guia, você precisará ter os seguintes softwares instalados em
 1. **Clone o repositório Git:**
 
 ```
-git clone https://github.com/rafaelbarross/english-quizz.git
+git clone https://github.com/rafaelbarross/english-learn-AI.git
 ```
 
 2. **Instale as dependências:**
@@ -35,7 +35,7 @@ O arquivo .env é crucial para armazenar variáveis de ambiente sensíveis, como
 2. **Adicione as Variáveis de Ambiente:** Abra o arquivo .env no seu editor de texto. Adicione as seguintes variáveis de ambiente, substituindo os valores de exemplo pelos reais.
 
 ```ts
-VARIAVEIS_DE_AMBIENTE=VALOR
+GOOGLE_API_KEY=<Your Google API Key>
 ```
 
 ## Execução
